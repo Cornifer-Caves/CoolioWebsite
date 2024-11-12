@@ -22,7 +22,7 @@ ul {
 
 li a {
   display: block;
-  color: #ffffff;
+  color: #faf8ff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -33,7 +33,7 @@ li a:hover {
 }
 
 .active {
-  background-color: #e8c7e6 ;
+  background-color: #9d8bc2 ;
 }
 
 li {
@@ -46,5 +46,5 @@ li:last-child {
 }
 
 a {
-  color: #fe6c90;
+  color: #e8c7e6;
 }
