@@ -1,6 +1,6 @@
 body {
-  background-color: #260d34;
-  color: #ffffff;
+  background-color: #9d8bc2;
+  color: #faf8ff;
   text-align: center;
   font-family: 'Roboto', sans-serif;;
   
@@ -13,7 +13,7 @@ ul {
   margin: 0;
   padding: 0px;
   overflow: hidden;
-  background-color: #87286a;
+  background-color: #9d8bc2;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -29,11 +29,11 @@ li a {
 }
 
 li a:hover {
-  background-color: #d03791;
+  background-color: #e8c7e6;
 }
 
 .active {
-  background-color: #fe6c90;
+  background-color: #e8c7e6 ;
 }
 
 li {
